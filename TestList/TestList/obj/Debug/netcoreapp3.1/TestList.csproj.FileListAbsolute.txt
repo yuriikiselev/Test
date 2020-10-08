@@ -1,0 +1,13 @@
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.exe
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.deps.json
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.runtimeconfig.json
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.runtimeconfig.dev.json
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.dll
+C:\Users\gosak\source\repos\TestList\TestList\bin\Debug\netcoreapp3.1\TestList.pdb
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.csprojAssemblyReference.cache
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.AssemblyInfoInputs.cache
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.AssemblyInfo.cs
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.csproj.CoreCompileInputs.cache
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.dll
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.pdb
+C:\Users\gosak\source\repos\TestList\TestList\obj\Debug\netcoreapp3.1\TestList.genruntimeconfig.cache
